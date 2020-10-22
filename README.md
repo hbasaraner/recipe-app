@@ -1,3 +1,9 @@
+# Foodie 🍴
+
+Foodie is the app that brings you related meals depending on your search. I used [Edamam](https://www.edamam.com/) as a source.
+
+------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
